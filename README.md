@@ -1,0 +1,2 @@
+# NewsData
+hosting news
